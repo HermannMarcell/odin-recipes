@@ -2,9 +2,14 @@
     background-color: rgb(40, 40, 40);
     color: rgb(222, 223, 195);
 }
-
-img {
+.startpage {
     text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 h1, h2 {
     font-family: 'Palatino', sans-serif;

@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(40, 40, 40);
+    color: rgb(222, 223, 195);
+}
+
+img {
+    text-align: center;
+}
+h1, h2 {
+    font-family: 'Palatino', sans-serif;
+    font-variant: small-caps;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    }
+h2 {
+    font-size: 25px;
+}
+li, h3, p {
+    font-family: 'Palatino, sans-serif';
+}
+ul, ol {
+    text-align: unset;
+}
